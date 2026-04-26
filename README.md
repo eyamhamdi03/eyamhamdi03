@@ -6,6 +6,7 @@ I’m Eya Mhamdi (@eyamhamdi03), a software engineer passionate about building i
 - I’m interested in software engineering, full stack development, machine learning, and building real-world AI-powered applications.
 - I’m currently deepening my skills in advanced AI topics such as deep learning, NLP, and RAG systems.
 - I’m actively exploring applied AI fields like computer vision, natural language processing, and Big Data, while strengthening my core software engineering fundamentals.
+  
 **What I’m Working On**
 * Full-stack web development
 * Software architecture design
